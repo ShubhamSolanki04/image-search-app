@@ -1,0 +1,16 @@
+.search-result img {
+    max-width: 100%;
+    height: 300px ;
+    border-radius: 8px;
+  }
+  .search-result a {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #198754;
+  }
+  .search-result a:hover {
+    text-decoration: underline;
+  }
